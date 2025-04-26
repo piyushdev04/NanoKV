@@ -1,6 +1,6 @@
 # NanoKV
 
-**NanoKV** is a blazing-fast, lightweight key-value store written in C++.  
+**NanoKV** is a blazing-fast, lightweight key-value store.  
 It features in-memory storage, durable append-only persistence (AOF), and a minimal TCP server interface — perfect for developers who need raw speed and simplicity.
 
 ##  Features
